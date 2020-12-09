@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cdacd05-7084-4a47-9523-d7e28ac5ab30" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Config/DefaultInput.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultInput.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Lords_Of_Golderia/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lords_Of_Golderia/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Lords_Of_Golderia/Lords_Of_GolderiaCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Lords_Of_Golderia/Lords_Of_GolderiaCharacter.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Lords_Of_Golderia/Lords_Of_GolderiaCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Lords_Of_Golderia/Lords_Of_GolderiaCharacter.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +15,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Source/Lords_Of_Golderia/Lords_Of_GolderiaCharacter.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/Lords_Of_Golderia/Lords_Of_GolderiaCharacter.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://Y:/Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/GameFramework/Character.h" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Source/Lords_Of_Golderia/Lords_Of_GolderiaCharacter.cpp" />
+        <option value="$PROJECT_DIR$/Source/Lords_Of_Golderia/Lords_Of_GolderiaCharacter.h" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1lPb0pJ02DJc8IOQLhIu0ItQHXR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -248,13 +258,14 @@
       <updated>1607501519169</updated>
       <workItem from="1607501613871" duration="2000" />
       <workItem from="1607505936790" duration="292000" />
+      <workItem from="1607506894212" duration="961000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

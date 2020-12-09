@@ -20,6 +20,7 @@ ALords_Of_GolderiaCharacter::ALords_Of_GolderiaCharacter()
 	// set our turn rates for input
 	BaseTurnRate = 45.f;
 	BaseLookUpRate = 45.f;
+	BaseSpeed = 1.f;
 
 	// Don't rotate when the controller rotates. Let that just affect the camera.
 	bUseControllerRotationPitch = false;
@@ -120,7 +121,7 @@ void ALords_Of_GolderiaCharacter::MoveForward(float Value)
 
 		// get forward vector
 		const FVector Direction = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::X);
-		AddMovementInput(Direction, Value);
+		AddMovementInput(Direction, Value*BaseSpeed);
 	}
 }
 
@@ -135,6 +136,6 @@ void ALords_Of_GolderiaCharacter::MoveRight(float Value)
 		// get right vector 
 		const FVector Direction = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::Y);
 		// add movement in that direction
-		AddMovementInput(Direction, Value);
+		AddMovementInput(Direction, Value*BaseSpeed);
 	}
 }
