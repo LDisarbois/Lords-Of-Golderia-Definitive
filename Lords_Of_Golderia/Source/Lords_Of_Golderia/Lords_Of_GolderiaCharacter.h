@@ -21,6 +21,10 @@ class ALords_Of_GolderiaCharacter : public ACharacter
 public:
 	ALords_Of_GolderiaCharacter();
 
+	/** Base Speed 0 to 1 ( represent speed divisor ). */
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category=Mouvement)
+    float BaseSpeed;
+
 	/** Base turn rate, in deg/sec. Other scaling may affect final turn rate. */
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category=Camera)
 	float BaseTurnRate;
