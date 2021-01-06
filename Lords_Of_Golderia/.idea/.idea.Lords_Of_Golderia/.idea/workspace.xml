@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="1cdacd05-7084-4a47-9523-d7e28ac5ab30" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Lords_Of_Golderia/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Lords_Of_Golderia/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEditor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEditor.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultInput.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultInput.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Lords_Of_Golderia/Lords_Of_GolderiaCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Lords_Of_Golderia/Lords_Of_GolderiaCharacter.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/Lords_Of_Golderia/Lords_Of_GolderiaCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Lords_Of_Golderia/Lords_Of_GolderiaCharacter.h" afterDir="false" />
     </list>
@@ -16,14 +21,17 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Source/Lords_Of_Golderia/Lords_Of_GolderiaCharacter.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://Y:/Games/UE_4.26/Engine/Source/Runtime/Engine/Private/PlayerController.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Lords_Of_Golderia/Lords_Of_GolderiaCharacter.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://Y:/Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/GameFramework/Pawn.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://Y:/Games/UE_4.26/Engine/Source/Runtime/Engine/Private/Pawn.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://Y:/Games/UE_4.26/Engine/Source/Runtime/Engine/Classes/GameFramework/Character.h" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Source/Lords_Of_Golderia/Lords_Of_GolderiaCharacter.cpp" />
         <option value="$PROJECT_DIR$/Source/Lords_Of_Golderia/Lords_Of_GolderiaCharacter.h" />
+        <option value="$PROJECT_DIR$/Source/Lords_Of_Golderia/Lords_Of_GolderiaCharacter.cpp" />
       </list>
     </option>
   </component>
@@ -258,7 +266,8 @@
       <updated>1607501519169</updated>
       <workItem from="1607501613871" duration="2000" />
       <workItem from="1607505936790" duration="292000" />
-      <workItem from="1607506894212" duration="961000" />
+      <workItem from="1607506894212" duration="1683000" />
+      <workItem from="1607525425673" duration="5954000" />
     </task>
     <servers />
   </component>
